@@ -23,7 +23,7 @@ npm install koa-mout -D
 ### 5.中间件的合并 compose
 
 ```bash
-
+npm install koa-compose -D
 ```
 
 ### windows 查看被占用的端口号
